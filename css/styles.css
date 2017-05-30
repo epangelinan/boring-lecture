@@ -6,3 +6,10 @@
   margin: auto;
   width: 40%;
 }
+
+.highlight-text {
+  background-color: yellow;
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+}
